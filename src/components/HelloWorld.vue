@@ -48,7 +48,7 @@ export default {
       homeButton: false,
       sceneModePicker: true,
       selectionIndicator: false,
-      timeline: false,
+      timeline: true,
       navigationHelpButton: false,
       infoBox: true,
       navigationInstructionsInitiallyVisible: false,
