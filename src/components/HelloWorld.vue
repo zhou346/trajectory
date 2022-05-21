@@ -44,7 +44,7 @@ export default {
       animation: true,
       baseLayerPicker: false,
       fullscreenButton: false,
-      geocoder: true,
+      geocoder: false,
       homeButton: false,
       sceneModePicker: true,
       selectionIndicator: false,
